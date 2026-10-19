@@ -1,0 +1,20 @@
+#punto 4
+
+URL: ws://127.0.0.1:5500/index.html/ws
+ruta: index.html
+puerto: 101
+protocolo: HTTP 
+host: 127.0.0.1:5500
+estado: 102
+metodos: GET
+
+#punto 5	
+
+codigo: 404
+significa que el servidor funciona pero no encuentra el recurso destino
+
+#punto 6
+
+HTML: da la estructura de la pagina
+CSS: se encarga de los diseños la estetica y pintura
+JavaScrip: es el motor la logica de todo el codigo 
